@@ -1,3 +1,3 @@
 # Virtual-Social-Media-Follower-Counter
 
-<a href="https://www.keyuljain.github.io/virtual-social-media-follower-counter">Check this out</a>
+<a href="https://keyuljain.github.io/Virtual-Social-Media-Follower-Counter/">Check this out</a>
